@@ -2,6 +2,8 @@
 
 [Test this out yourself](https://jumballaya.github.io/WebGL-shadows/)
 
+You can move with the mouse to look around, wasd to move around, space to move up and c to move down
+
 Technique used:
 
 1. Create orthographic camera for light
