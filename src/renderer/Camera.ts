@@ -1,4 +1,4 @@
-import { mat3, mat4, vec3 } from "gl-matrix";
+import { mat4, vec3 } from "gl-matrix";
 import { Shader } from "../gl/Shader";
 
 export class Camera {
